@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+*_backup.py
+*_backup.json
